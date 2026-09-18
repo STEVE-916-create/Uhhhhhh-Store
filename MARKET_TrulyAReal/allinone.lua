@@ -15,8 +15,8 @@ local dances = {
     {
         name        = "You're Mine",
         desc        = "Hi I'm baldy nice to meet ya! Fuck me in the ass and call me Patricia!, Uploaded by TrulyAReal",
-        anim        = "YoureMine.anim@MARKET/MARKET_TrulyAReal/assets/AoZXvmBt_YoureMine.anim",
-        song        = "YoureMine.mp3@MARKET/MARKET_TrulyAReal/assets/vzaCHJED_YoureMine.mp3",
+        anim        = "YoureMine.anim@MARKET/MARKET_TrulyAReal/assets/atzgwAyG_YoureMine.anim",
+        song        = "YoureMine.mp3@MARKET/MARKET_TrulyAReal/assets/SXNajcjE_YoureMine.mp3",
         songId      = "You'reMine.mp3",
         musicName   = "You'reMine",
         volume      = 0.8,
@@ -28,8 +28,8 @@ local dances = {
     {
         name        = "Big Hand Wave",
         desc        = "Sick Ass Emote. Uploaded by TrulyAReal",
-        anim        = "BigHandWave.anim@MARKET/MARKET_TrulyAReal/assets/ejXP5sgj_BigHandWave.anim",
-        song        = "BigHandWave.mp3@MARKET/MARKET_TrulyAReal/assets/rVO2sfrR_BigHandWave.mp3",
+        anim        = "BigHandWave.anim@MARKET/MARKET_TrulyAReal/assets/1MIgXPFk_BigHandWave.anim",
+        song        = "BigHandWave.mp3@MARKET/MARKET_TrulyAReal/assets/2MPt8jO8_BigHandWave.mp3",
         songId      = "BigHandWave.mp3",
         musicName   = "BigHandWave",
         volume      = 0.8,
@@ -41,8 +41,8 @@ local dances = {
     {
         name        = "Tantrum",
         desc        = "WAAA WAA WAA. Uploaded by TrulyAReal",
-        anim        = "Tantrum.anim@MARKET/MARKET_TrulyAReal/assets/rfENr46L_Tantrum.anim",
-        song        = "Tantrum.mp3@MARKET/MARKET_TrulyAReal/assets/t4bYDFrH_Tantrum.mp3",
+        anim        = "Tantrum.anim@MARKET/MARKET_TrulyAReal/assets/AdeWCArk_Tantrum.anim",
+        song        = "Tantrum.mp3@MARKET/MARKET_TrulyAReal/assets/n4lu6uWW_Tantrum.mp3",
         songId      = "Tantrum.mp3",
         musicName   = "Tantrum",
         volume      = 0.8,
@@ -54,7 +54,7 @@ local dances = {
     {
         name        = "Big Hand Pat",
         desc        = "Sick Ass Emote. Uploaded by TrulyAReal",
-        anim        = "BigHandPat.anim@MARKET/MARKET_TrulyAReal/assets/NckIvqPM_BigHandPat.anim",
+        anim        = "BigHandPat.anim@MARKET/MARKET_TrulyAReal/assets/5v2Q8v0Z_BigHandPat.anim",
         song        = "Goodboy.mp3",
         songId      = "Goodboy.mp3",
         musicName   = "Goodboy",
@@ -67,8 +67,8 @@ local dances = {
     {
         name        = "Spider Dance",
         desc        = "Support Spider cause! Uploaded by TrulyAReal",
-        anim        = "Spiderdance.anim@MARKET/MARKET_TrulyAReal/assets/9sDqvU7N_Spiderdance.anim",
-        song        = "SpiderDance.mp3@MARKET/MARKET_TrulyAReal/assets/ZzqhtmQK_SpiderDance.mp3",
+        anim        = "Spiderdance.anim@MARKET/MARKET_TrulyAReal/assets/8Gi4NW0e_Spiderdance.anim",
+        song        = "SpiderDance.mp3@MARKET/MARKET_TrulyAReal/assets/X2YpsfyE_SpiderDance.mp3",
         songId      = "SpiderDance.mp3",
         musicName   = "SpiderDance",
         volume      = 0.8,
@@ -80,8 +80,8 @@ local dances = {
     {
         name        = "Big Hand Flick",
         desc        = "Sick Ass Emote. Uploaded by TrulyAReal",
-        anim        = "BigHandFlick.anim@MARKET/MARKET_TrulyAReal/assets/fRwIlMgY_BigHandFlick.anim",
-        song        = "BigHandFlick.mp3@MARKET/MARKET_TrulyAReal/assets/Oqu9F7KC_BigHandFlick.mp3",
+        anim        = "BigHandFlick.anim@MARKET/MARKET_TrulyAReal/assets/aHW4ZJOU_BigHandFlick.anim",
+        song        = "BigHandFlick.mp3@MARKET/MARKET_TrulyAReal/assets/2EzY0pNW_BigHandFlick.mp3",
         songId      = "BigHandFlick.mp3",
         musicName   = "BigHandFlick",
         volume      = 0.8,
@@ -93,8 +93,8 @@ local dances = {
     {
         name        = "Big Hand: Thinking🤔",
         desc        = "mmmm donuts🤤🤤🤤. Uploaded by TrulyAReal",
-        anim        = "Thinking.anim@MARKET/MARKET_TrulyAReal/assets/ndSJVNkL_Thinking.anim",
-        song        = "Thinking.mp3@MARKET/MARKET_TrulyAReal/assets/dAQuKw3P_Thinking.mp3",
+        anim        = "Thinking.anim@MARKET/MARKET_TrulyAReal/assets/TTQxFGzr_Thinking.anim",
+        song        = "Thinking.mp3@MARKET/MARKET_TrulyAReal/assets/ynEOr2ir_Thinking.mp3",
         songId      = "Thinking.mp3",
         musicName   = "Thinking",
         volume      = 0.8,
@@ -106,8 +106,8 @@ local dances = {
     {
         name        = "Biblically Accurate Emote",
         desc        = "4th Dimension Creature. Uploaded by TrulyAReal",
-        anim        = "BiblicallyAccurate.anim@MARKET/MARKET_TrulyAReal/assets/bpmm1q8G_BiblicallyAccurate.anim",
-        song        = "BiblicallyAccurate.mp3@MARKET/MARKET_TrulyAReal/assets/EqD9mbAz_BiblicallyAccurate.mp3",
+        anim        = "BiblicallyAccurate.anim@MARKET/MARKET_TrulyAReal/assets/z5jpCW7u_BiblicallyAccurate.anim",
+        song        = "BiblicallyAccurate.mp3@MARKET/MARKET_TrulyAReal/assets/qwigKU2r_BiblicallyAccurate.mp3",
         songId      = "BiblicallyAccurate.mp3",
         musicName   = "BiblicallyAccurate",
         volume      = 0.8,
@@ -119,8 +119,8 @@ local dances = {
     {
         name        = "B A L L E R",
         desc        = "STOP POSTING ABOUT B A L L E R, Uploaded by TrulyAReal",
-        anim        = "Baller.anim@MARKET/MARKET_TrulyAReal/assets/ei6YUgzX_Baller.anim",
-        song        = "Baller.mp3@MARKET/MARKET_TrulyAReal/assets/Edfdx8Qy_Baller.mp3",
+        anim        = "Baller.anim@MARKET/MARKET_TrulyAReal/assets/DGM7cboy_Baller.anim",
+        song        = "Baller.mp3@MARKET/MARKET_TrulyAReal/assets/nSdEJjT6_Baller.mp3",
         songId      = "Baller.mp3",
         musicName   = "Baller",
         volume      = 0.8,
@@ -132,8 +132,8 @@ local dances = {
     {
         name        = "Big Hand: Think, Bro, THINK!",
         desc        = "THINK, MARK, THINK.. Uploaded by TrulyAReal",
-        anim        = "ThinkBro.anim@MARKET/MARKET_TrulyAReal/assets/m2JbiHHN_ThinkBro.anim",
-        song        = "ThinkBro.mp3@MARKET/MARKET_TrulyAReal/assets/W9K8aavd_ThinkBro.mp3",
+        anim        = "ThinkBro.anim@MARKET/MARKET_TrulyAReal/assets/e0jGMhY3_ThinkBro.anim",
+        song        = "ThinkBro.mp3@MARKET/MARKET_TrulyAReal/assets/B579P0pg_ThinkBro.mp3",
         songId      = "ThinkBro.mp3",
         musicName   = "ThinkBro",
         volume      = 0.8,
@@ -145,8 +145,8 @@ local dances = {
     {
         name        = "Big Hand Yap",
         desc        = "Sick Ass Emote. Uploaded by TrulyAReal",
-        anim        = "BigHandYap.anim@MARKET/MARKET_TrulyAReal/assets/hs1ZwoKZ_BigHandYap.anim",
-        song        = "BigHandYap.mp3@MARKET/MARKET_TrulyAReal/assets/rP2OMIaY_BigHandYap.mp3",
+        anim        = "BigHandYap.anim@MARKET/MARKET_TrulyAReal/assets/u1dv1pTc_BigHandYap.anim",
+        song        = "BigHandYap.mp3@MARKET/MARKET_TrulyAReal/assets/6UGF2nz6_BigHandYap.mp3",
         songId      = "BigHandYap.mp3",
         musicName   = "BigHandYap",
         volume      = 0.8,
@@ -158,8 +158,8 @@ local dances = {
     {
         name        = "Boppin",
         desc        = "Hold on he hit every beat, Uploaded by TrulyAReal",
-        anim        = "Boppin.anim@MARKET/MARKET_TrulyAReal/assets/zJZHfviZ_Boppin.anim",
-        song        = "Boppin.mp3@MARKET/MARKET_TrulyAReal/assets/sRXsPitU_Boppin.mp3",
+        anim        = "Boppin.anim@MARKET/MARKET_TrulyAReal/assets/dJBQQnHf_Boppin.anim",
+        song        = "Boppin.mp3@MARKET/MARKET_TrulyAReal/assets/iEfVsu2N_Boppin.mp3",
         songId      = "Boppin.mp3",
         musicName   = "Boppin",
         volume      = 0.8,
@@ -171,8 +171,8 @@ local dances = {
     {
         name        = "Big Hand Yes",
         desc        = "Sick Ass Emote. Uploaded by TrulyAReal",
-        anim        = "BigHandYes.anim@MARKET/MARKET_TrulyAReal/assets/ykJTwjIN_BigHandYes.anim",
-        song        = "BigHandYes.mp3@MARKET/MARKET_TrulyAReal/assets/Zypz4olt_BigHandYes.mp3",
+        anim        = "BigHandYes.anim@MARKET/MARKET_TrulyAReal/assets/j38ajPcd_BigHandYes.anim",
+        song        = "BigHandYes.mp3@MARKET/MARKET_TrulyAReal/assets/yGGqT5kV_BigHandYes.mp3",
         songId      = "BigHandYes.mp3",
         musicName   = "BigHandYes",
         volume      = 0.8,
@@ -184,8 +184,8 @@ local dances = {
     {
         name        = "Leviathan",
         desc        = "Thousand Yard Stare, Uploaded by TrulyAReal",
-        anim        = "Leviathan.anim@MARKET/MARKET_TrulyAReal/assets/VaZ0t5NL_Leviathan.anim",
-        song        = "Leviathan.mp3@MARKET/MARKET_TrulyAReal/assets/MA2sHlc3_Leviathan.mp3",
+        anim        = "Leviathan.anim@MARKET/MARKET_TrulyAReal/assets/EJziX6o3_Leviathan.anim",
+        song        = "Leviathan.mp3@MARKET/MARKET_TrulyAReal/assets/yrNRJDsS_Leviathan.mp3",
         songId      = "Leviathan.mp3",
         musicName   = "Leviathan",
         volume      = 0.8,
@@ -197,8 +197,8 @@ local dances = {
     {
         name        = "Big Hand: Mogged",
         desc        = "Rizz V3 Basically. Uploaded by TrulyAReal",
-        anim        = "Mogged.anim@MARKET/MARKET_TrulyAReal/assets/uMMQTisG_Mogged.anim",
-        song        = "Mogged.mp3@MARKET/MARKET_TrulyAReal/assets/GF5zTgSF_Mogged.mp3",
+        anim        = "Mogged.anim@MARKET/MARKET_TrulyAReal/assets/woRD1RGn_Mogged.anim",
+        song        = "Mogged.mp3@MARKET/MARKET_TrulyAReal/assets/ocB56MOA_Mogged.mp3",
         songId      = "Mogged.mp3",
         musicName   = "Mogged",
         volume      = 0.8,
@@ -210,8 +210,8 @@ local dances = {
     {
         name        = "Big Hand Dislike",
         desc        = "Sick Ass Emote. Uploaded by TrulyAReal",
-        anim        = "BigHandDislike.anim@MARKET/MARKET_TrulyAReal/assets/fFtyB78d_BigHandDislike.anim",
-        song        = "BigHandDislike.mp3@MARKET/MARKET_TrulyAReal/assets/v0t0bwUv_BigHandDislike.mp3",
+        anim        = "BigHandDislike.anim@MARKET/MARKET_TrulyAReal/assets/jdH47TYw_BigHandDislike.anim",
+        song        = "BigHandDislike.mp3@MARKET/MARKET_TrulyAReal/assets/8zbH2rno_BigHandDislike.mp3",
         songId      = "BigHandDislike.mp3",
         musicName   = "BigHandDislike",
         volume      = 0.8,
@@ -223,8 +223,8 @@ local dances = {
     {
         name        = "Springlock Failure",
         desc        = "GET IT OFF. Uploaded by TrulyAReal",
-        anim        = "SpringLock.anim@MARKET/MARKET_TrulyAReal/assets/6uaPBqm5_SpringLock.anim",
-        song        = "SpringLock.mp3@MARKET/MARKET_TrulyAReal/assets/VhuDmb8r_SpringLock.mp3",
+        anim        = "SpringLock.anim@MARKET/MARKET_TrulyAReal/assets/F4SuKmIY_SpringLock.anim",
+        song        = "SpringLock.mp3@MARKET/MARKET_TrulyAReal/assets/n9RjJwHT_SpringLock.mp3",
         songId      = "SpringLock.mp3",
         musicName   = "SpringLock",
         volume      = 0.8,
@@ -236,8 +236,8 @@ local dances = {
     {
         name        = "Dr Livesey Walk",
         desc        = "Rum is the same as death,Uploaded by TrulyAReal",
-        anim        = "DrLivesey.anim@MARKET/MARKET_TrulyAReal/assets/GpN7kL9G_DrLivesey.anim",
-        song        = "DrLivesey.mp3@MARKET/MARKET_TrulyAReal/assets/BsuBOeUI_DrLivesey.mp3",
+        anim        = "DrLivesey.anim@MARKET/MARKET_TrulyAReal/assets/xcNvVzPT_DrLivesey.anim",
+        song        = "DrLivesey.mp3@MARKET/MARKET_TrulyAReal/assets/YQqO5C3A_DrLivesey.mp3",
         songId      = "DrLivesey.mp3",
         musicName   = "DrLivesey",
         volume      = 0.8,
@@ -249,8 +249,8 @@ local dances = {
     {
         name        = "Cutely Kicking Feet",
         desc        = "What the fuck, is this. Uploaded by TrulyAReal",
-        anim        = "KickingFeet.anim@MARKET/MARKET_TrulyAReal/assets/xUoWayRU_KickingFeet.anim",
-        song        = "KickingFeet.mp3@MARKET/MARKET_TrulyAReal/assets/FanPbj6H_KickingFeet.mp3",
+        anim        = "KickingFeet.anim@MARKET/MARKET_TrulyAReal/assets/uJS4ToQ6_KickingFeet.anim",
+        song        = "KickingFeet.mp3@MARKET/MARKET_TrulyAReal/assets/oydVSLCf_KickingFeet.mp3",
         songId      = "KickingFeet.mp3",
         musicName   = "KickingFeet",
         volume      = 0.8,
@@ -275,8 +275,8 @@ local dances = {
     {
         name        = "Way Too Excited",
         desc        = "YIPYAPYAYAYIYIYIPYAYUA, Uploaded by TrulyAReal",
-        anim        = "TOOExcited.anim@MARKET/MARKET_TrulyAReal/assets/yIDJjAdJ_TOOExcited.anim",
-        song        = "TOOExcited.mp3@MARKET/MARKET_TrulyAReal/assets/SxavAU3V_TOOExcited.mp3",
+        anim        = "TOOExcited.anim@MARKET/MARKET_TrulyAReal/assets/NgAxDdgq_TOOExcited.anim",
+        song        = "TOOExcited.mp3@MARKET/MARKET_TrulyAReal/assets/Tv4OXVcf_TOOExcited.mp3",
         songId      = "TOOExcited.mp3",
         musicName   = "TOOExcited",
         volume      = 0.8,
@@ -288,8 +288,8 @@ local dances = {
     {
         name        = "Unspoken Rizz",
         desc        = "Sick Ass Emote. Uploaded by TrulyAReal",
-        anim        = "UnspokenRizz.anim@MARKET/MARKET_TrulyAReal/assets/DfHBDml7_UnspokenRizz.anim",
-        song        = "Rizz.mp3@MARKET/MARKET_TrulyAReal/assets/myMlFHR4_Rizz.mp3",
+        anim        = "UnspokenRizz.anim@MARKET/MARKET_TrulyAReal/assets/uTac7Q8j_UnspokenRizz.anim",
+        song        = "Rizz.mp3@MARKET/MARKET_TrulyAReal/assets/ca5ULx0m_Rizz.mp3",
         songId      = "Rizz.mp3",
         musicName   = "Rizz",
         volume      = 0.8,
@@ -301,8 +301,8 @@ local dances = {
     {
         name        = "Club Penguin",
         desc        = "Peak Gaming Uploaded by TrulyAReal",
-        anim        = "ClubPenguin.anim@MARKET/MARKET_TrulyAReal/assets/fkBmICVq_ClubPenguin.anim",
-        song        = "ClubPenguin.mp3@MARKET/MARKET_TrulyAReal/assets/ZTJnCB85_ClubPenguin.mp3",
+        anim        = "ClubPenguin.anim@MARKET/MARKET_TrulyAReal/assets/BoH5qOj9_ClubPenguin.anim",
+        song        = "ClubPenguin.mp3@MARKET/MARKET_TrulyAReal/assets/7dMSZMXh_ClubPenguin.mp3",
         songId      = "Club Penguin.mp3",
         musicName   = "Club Penguin",
         volume      = 0.8,
@@ -314,8 +314,8 @@ local dances = {
     {
         name        = "Big Hand Come Here",
         desc        = "Sick Ass Emote. Uploaded by TrulyAReal",
-        anim        = "BigHandComeHere.anim@MARKET/MARKET_TrulyAReal/assets/GDu8QG50_BigHandComeHere.anim",
-        song        = "BigHandComeHere.mp3@MARKET/MARKET_TrulyAReal/assets/2HcycTqh_BigHandComeHere.mp3",
+        anim        = "BigHandComeHere.anim@MARKET/MARKET_TrulyAReal/assets/vVjtCgAE_BigHandComeHere.anim",
+        song        = "BigHandComeHere.mp3@MARKET/MARKET_TrulyAReal/assets/gvnPRbZi_BigHandComeHere.mp3",
         songId      = "BigHandComeHere.mp3",
         musicName   = "BigHandComeHere",
         volume      = 0.8,
@@ -327,8 +327,8 @@ local dances = {
     {
         name        = "Sonic Victory",
         desc        = "I'll bring it to court, but I don't think they'll take gotta go fast as a medical condition, Uploaded by TrulyAReal",
-        anim        = "SonicVictory.anim@MARKET/MARKET_TrulyAReal/assets/1PszhbN6_SonicVictory.anim",
-        song        = "SonicVictory.mp3@MARKET/MARKET_TrulyAReal/assets/VnklOgei_SonicVictory.mp3",
+        anim        = "SonicVictory.anim@MARKET/MARKET_TrulyAReal/assets/nxbD9kB4_SonicVictory.anim",
+        song        = "SonicVictory.mp3@MARKET/MARKET_TrulyAReal/assets/mdK9Nxe9_SonicVictory.mp3",
         songId      = "SonicVictory.mp3",
         musicName   = "SonicVictory",
         volume      = 0.8,
@@ -340,7 +340,7 @@ local dances = {
     {
         name        = "Big Hand Rub",
         desc        = "Sick Ass Emote. Uploaded by TrulyAReal",
-        anim        = "BigHandRub.anim@MARKET/MARKET_TrulyAReal/assets/Kygo49cV_BigHandRub.anim",
+        anim        = "BigHandRub.anim@MARKET/MARKET_TrulyAReal/assets/jmqJsQbw_BigHandRub.anim",
         song        = "Goodboy.mp3",
         songId      = "Goodboy.mp3",
         musicName   = "Goodboy",
@@ -353,8 +353,8 @@ local dances = {
     {
         name        = "Rizz",
         desc        = "Sick Ass Emote. Uploaded by TrulyAReal",
-        anim        = "Rizz.anim@MARKET/MARKET_TrulyAReal/assets/FehHVxNK_Rizz.anim",
-        song        = "Rizz.mp3@MARKET/MARKET_TrulyAReal/assets/myMlFHR4_Rizz.mp3",
+        anim        = "Rizz.anim@MARKET/MARKET_TrulyAReal/assets/ao9RpWXB_Rizz.anim",
+        song        = "Rizz.mp3@MARKET/MARKET_TrulyAReal/assets/ca5ULx0m_Rizz.mp3",
         songId      = "Rizz.mp3",
         musicName   = "Rizz",
         volume      = 0.8,
@@ -366,8 +366,8 @@ local dances = {
     {
         name        = "Yippee",
         desc        = "My mother let me drink cola and play fortnite. Its cool! YIPPEE, Uploaded by TrulyAReal",
-        anim        = "Boppin.anim@MARKET/MARKET_TrulyAReal/assets/zJZHfviZ_Boppin.anim",
-        song        = "Boppin.mp3@MARKET/MARKET_TrulyAReal/assets/sRXsPitU_Boppin.mp3",
+        anim        = "Boppin.anim@MARKET/MARKET_TrulyAReal/assets/dJBQQnHf_Boppin.anim",
+        song        = "Boppin.mp3@MARKET/MARKET_TrulyAReal/assets/iEfVsu2N_Boppin.mp3",
         songId      = "Yippee.mp3",
         musicName   = "Yippee",
         volume      = 0.8,
@@ -379,8 +379,8 @@ local dances = {
     {
         name        = "YES",
         desc        = "WOOHOO YES, Uploaded by TrulyAReal",
-        anim        = "WOOHOO.anim@MARKET/MARKET_TrulyAReal/assets/c59j4LdP_WOOHOO.anim",
-        song        = "WOOHOO.mp3@MARKET/MARKET_TrulyAReal/assets/YlYAq2GY_WOOHOO.mp3",
+        anim        = "WOOHOO.anim@MARKET/MARKET_TrulyAReal/assets/jX4g5v8h_WOOHOO.anim",
+        song        = "WOOHOO.mp3@MARKET/MARKET_TrulyAReal/assets/wIea4j7b_WOOHOO.mp3",
         songId      = "WOOHOO.mp3",
         musicName   = "WOOHOO",
         volume      = 0.8,
@@ -392,8 +392,8 @@ local dances = {
     {
         name        = "Drop Kick",
         desc        = "Who's name is john cena? HOLY SHI-. Uploaded by TrulyAReal",
-        anim        = "DropKick.anim@MARKET/MARKET_TrulyAReal/assets/rNclMc4f_DropKick.anim",
-        song        = "DropKick.mp3@MARKET/MARKET_TrulyAReal/assets/hbN0wqBy_DropKick.mp3",
+        anim        = "DropKick.anim@MARKET/MARKET_TrulyAReal/assets/vnKL1J5Z_DropKick.anim",
+        song        = "DropKick.mp3@MARKET/MARKET_TrulyAReal/assets/Y4EbQqCY_DropKick.mp3",
         songId      = "DropKick.mp3",
         musicName   = "DropKick",
         volume      = 0.8,
@@ -405,8 +405,8 @@ local dances = {
     {
         name        = "Kaboom",
         desc        = "KABOOOOM, Uploaded by TrulyAReal",
-        anim        = "Kaboom.anim@MARKET/MARKET_TrulyAReal/assets/jyFd9HRV_Kaboom.anim",
-        song        = "Kaboom.mp3@MARKET/MARKET_TrulyAReal/assets/SFl6yQUP_Kaboom.mp3",
+        anim        = "Kaboom.anim@MARKET/MARKET_TrulyAReal/assets/dv28Q1ed_Kaboom.anim",
+        song        = "Kaboom.mp3@MARKET/MARKET_TrulyAReal/assets/xidrpaqK_Kaboom.mp3",
         songId      = "Kaboom.mp3",
         musicName   = "Kaboom",
         volume      = 0.8,
@@ -418,8 +418,8 @@ local dances = {
     {
         name        = "Jojo Pose",
         desc        = "Steal Ball Run is no more. Uploaded by TrulyAReal",
-        anim        = "JojoPose.anim@MARKET/MARKET_TrulyAReal/assets/rUY1XR74_JojoPose.anim",
-        song        = "JojoPose.mp3@MARKET/MARKET_TrulyAReal/assets/SKSfYjB5_JojoPose.mp3",
+        anim        = "JojoPose.anim@MARKET/MARKET_TrulyAReal/assets/l0jaAeYm_JojoPose.anim",
+        song        = "JojoPose.mp3@MARKET/MARKET_TrulyAReal/assets/6slNIMzJ_JojoPose.mp3",
         songId      = "JojoPose.mp3",
         musicName   = "JojoPose",
         volume      = 0.8,
@@ -431,8 +431,8 @@ local dances = {
     {
         name        = "Big Hand: Bunny Ears",
         desc        = "Shitty Bad Emote. Uploaded by TrulyAReal",
-        anim        = "BunnyEars.anim@MARKET/MARKET_TrulyAReal/assets/I58HCNri_BunnyEars.anim",
-        song        = "BunnyEars.mp3@MARKET/MARKET_TrulyAReal/assets/jAfFgXix_BunnyEars.mp3",
+        anim        = "BunnyEars.anim@MARKET/MARKET_TrulyAReal/assets/7rINgKOC_BunnyEars.anim",
+        song        = "BunnyEars.mp3@MARKET/MARKET_TrulyAReal/assets/SPT6PaEY_BunnyEars.mp3",
         songId      = "BunnyEars.mp3",
         musicName   = "BunnyEars",
         volume      = 0.8,
@@ -444,8 +444,8 @@ local dances = {
     {
         name        = "Cyber City",
         desc        = "A Tyrannosaurus Rex A Quiet kid and a Fluffy boy, Uploaded by TrulyAReal",
-        anim        = "CyberCity.anim@MARKET/MARKET_TrulyAReal/assets/I4pvLmns_CyberCity.anim",
-        song        = "CyberCity.mp3@MARKET/MARKET_TrulyAReal/assets/U5xIfWDL_CyberCity.mp3",
+        anim        = "CyberCity.anim@MARKET/MARKET_TrulyAReal/assets/YOXmQLwN_CyberCity.anim",
+        song        = "CyberCity.mp3@MARKET/MARKET_TrulyAReal/assets/1IoykN7h_CyberCity.mp3",
         songId      = "CyberCity.mp3",
         musicName   = "CyberCity",
         volume      = 0.8,
@@ -457,8 +457,8 @@ local dances = {
     {
         name        = "Big Hand Point",
         desc        = "Sick Ass Emote. Uploaded by TrulyAReal",
-        anim        = "BigHandPoint.anim@MARKET/MARKET_TrulyAReal/assets/Pzgfdxok_BigHandPoint.anim",
-        song        = "13.mp3@MARKET/MARKET_TrulyAReal/assets/YrP2eVqK_13.mp3",
+        anim        = "BigHandPoint.anim@MARKET/MARKET_TrulyAReal/assets/2DS7dxzU_BigHandPoint.anim",
+        song        = "13.mp3@MARKET/MARKET_TrulyAReal/assets/cgQQeiC3_13.mp3",
         songId      = "13.mp3",
         musicName   = "13",
         volume      = 0.8,
@@ -470,8 +470,8 @@ local dances = {
     {
         name        = "BodyDial",
         desc        = "Ah yes, the true portable phone. Uploaded by TrulyAReal",
-        anim        = "BodyDial.anim@MARKET/MARKET_TrulyAReal/assets/PD5rPiHz_BodyDial.anim",
-        song        = "BodyDial.mp3@MARKET/MARKET_TrulyAReal/assets/c25fOyQs_BodyDial.mp3",
+        anim        = "BodyDial.anim@MARKET/MARKET_TrulyAReal/assets/WpdBYAeO_BodyDial.anim",
+        song        = "BodyDial.mp3@MARKET/MARKET_TrulyAReal/assets/6qcg17lT_BodyDial.mp3",
         songId      = "BodyDial.mp3",
         musicName   = "BodyDial",
         volume      = 0.8,
@@ -483,8 +483,8 @@ local dances = {
     {
         name        = "Thragg Aura",
         desc        = "The goat of aura, Uploaded by TrulyAReal",
-        anim        = "ThraggAura.anim@MARKET/MARKET_TrulyAReal/assets/XUxYiL84_ThraggAura.anim",
-        song        = "ThraggAura.mp3@MARKET/MARKET_TrulyAReal/assets/0LU3w8Da_ThraggAura.mp3",
+        anim        = "ThraggAura.anim@MARKET/MARKET_TrulyAReal/assets/B1OCodkp_ThraggAura.anim",
+        song        = "ThraggAura.mp3@MARKET/MARKET_TrulyAReal/assets/iY3m7vdR_ThraggAura.mp3",
         songId      = "ThraggAura.mp3",
         musicName   = "ThraggAura",
         volume      = 0.8,
@@ -496,8 +496,8 @@ local dances = {
     {
         name        = "Effortless Aura",
         desc        = "Ts so brainrotted,  Uploaded by TrulyAReal",
-        anim        = "EffortlessAura.anim@MARKET/MARKET_TrulyAReal/assets/BxreDWBF_EffortlessAura.anim",
-        song        = "EffortlessAura.mp3@MARKET/MARKET_TrulyAReal/assets/OwKsSoIE_EffortlessAura.mp3",
+        anim        = "EffortlessAura.anim@MARKET/MARKET_TrulyAReal/assets/JhixFk9B_EffortlessAura.anim",
+        song        = "EffortlessAura.mp3@MARKET/MARKET_TrulyAReal/assets/AbFp9O7A_EffortlessAura.mp3",
         songId      = "EffortlessAura.mp3",
         musicName   = "EffortlessAura",
         volume      = 0.8,
@@ -509,8 +509,8 @@ local dances = {
     {
         name        = "Foggy Mountain",
         desc        = "Mid ass dance, Uploaded by TrulyAReal",
-        anim        = "FoggyMountain.anim@MARKET/MARKET_TrulyAReal/assets/96sfFr9w_FoggyMountain.anim",
-        song        = "FoggyMountain.mp3@MARKET/MARKET_TrulyAReal/assets/0TnnQOnh_FoggyMountain.mp3",
+        anim        = "FoggyMountain.anim@MARKET/MARKET_TrulyAReal/assets/FL0SNb5V_FoggyMountain.anim",
+        song        = "FoggyMountain.mp3@MARKET/MARKET_TrulyAReal/assets/ZY5Wj9CQ_FoggyMountain.mp3",
         songId      = "FoggyMountain.mp3",
         musicName   = "FoggyMountain",
         volume      = 0.8,
@@ -522,8 +522,8 @@ local dances = {
     {
         name        = "Helicopter",
         desc        = "HELICOPTER, HELICOPTER! Uploaded by TrulyAReal",
-        anim        = "Helicopter.anim@MARKET/MARKET_TrulyAReal/assets/bCmFoLa2_Helicopter.anim",
-        song        = "Helicopter.mp3@MARKET/MARKET_TrulyAReal/assets/8JiOXRiW_Helicopter.mp3",
+        anim        = "Helicopter.anim@MARKET/MARKET_TrulyAReal/assets/eKcJTb8h_Helicopter.anim",
+        song        = "Helicopter.mp3@MARKET/MARKET_TrulyAReal/assets/dBxcduAI_Helicopter.mp3",
         songId      = "Helicopter.mp3",
         musicName   = "Helicopter",
         volume      = 0.8,
@@ -535,8 +535,8 @@ local dances = {
     {
         name        = "Tank",
         desc        = "Should have used Cola,Vodka,Whisky for the song -TrulyAReal",
-        anim        = "Tank.anim@MARKET/MARKET_TrulyAReal/assets/NB1gQYCG_Tank.anim",
-        song        = "Tank.mp3@MARKET/MARKET_TrulyAReal/assets/GPRmu2tt_Tank.mp3",
+        anim        = "Tank.anim@MARKET/MARKET_TrulyAReal/assets/3ooEphpd_Tank.anim",
+        song        = "Tank.mp3@MARKET/MARKET_TrulyAReal/assets/5jXdipTk_Tank.mp3",
         songId      = "Tank.mp3",
         musicName   = "Tank",
         volume      = 0.8,
@@ -548,8 +548,8 @@ local dances = {
     {
         name        = "Start Diggin' Twin!",
         desc        = "What da hellll, aw hell no. Uploaded by TrulyAReal",
-        anim        = "StartDiggin.anim@MARKET/MARKET_TrulyAReal/assets/uDYGdXwb_StartDiggin.anim",
-        song        = "StartDiggin.mp3@MARKET/MARKET_TrulyAReal/assets/wDNhiW4T_StartDiggin.mp3",
+        anim        = "StartDiggin.anim@MARKET/MARKET_TrulyAReal/assets/0VRJXPO0_StartDiggin.anim",
+        song        = "StartDiggin.mp3@MARKET/MARKET_TrulyAReal/assets/eb0htoNn_StartDiggin.mp3",
         songId      = "StartDiggin.mp3",
         musicName   = "StartDiggin",
         volume      = 0.8,
@@ -580,8 +580,6 @@ for i = 1, #dances do
 
         m.Init = function(figure)
             SetOverrideDanceMusic(AssetGetContentId(d.songId), d.musicName, d.volume, NumberRange.new(d.rangeLo, d.rangeHi))
-
-            start           = os.clock()
             animator        = AnimLib.Animator.new()
             animator.rig    = figure
             animator.track  = AnimLib.Track.fromfile(AssetGetPathFromFilename(d.anim))
@@ -590,7 +588,9 @@ for i = 1, #dances do
         end
 
         m.Update = function(dt, figure)
-            animator:Step(os.clock() - start)
+            if animator then
+                animator:Step(GetOverrideDanceMusicTime())
+            end
         end
 
         m.Destroy = function(figure)
