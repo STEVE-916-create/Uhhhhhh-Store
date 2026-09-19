@@ -60,5 +60,11 @@ file = GeometryRunC/moveset.lua
 name = TrulyAReal dance pack
 user = TrulyAReal
 desc = dance pack! [ caution : moderation is not done for this module ]
-cost = ~3 MB
+cost = ~28 MB
 file = MARKET_TrulyAReal/allinone.lua
+
+name = m1dnig3t dance pack
+user = m1dnig3t
+desc = dance pack! [ caution : moderation is not done for this module ]
+cost = ~36 MB
+file = MARKET_n1ghtEpikDances/allinone.lua
