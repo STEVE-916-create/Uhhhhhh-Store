@@ -74,3 +74,9 @@ user = lenny018577
 desc = dance pack! [ caution : moderation is not done for this module ]
 cost = ~18 MB
 file = MARKET_lenny018577/allinone.lua
+
+name = Lesser dad's shop
+user = Chattyeri
+desc = He went to somewhere lol
+cost = ~36 MB
+file = MARKET_Pipis/allinone.lua
