@@ -537,7 +537,7 @@ for i = 1, #dances do
         m.LoadConfig = function(save) end
 
         m.Init = function(figure)
-            SetOverrideDanceMusic(AssetGetContentId(d.song:match("^[^@]+")), d.musicName, d.volume, NumberRange.new(d.rangeLo, d.rangeHi))
+            SetOverrideDanceMusic(AssetGetContentId(d.song:match("^[^@]+"), d.musicName, d.volume, NumberRange.new(d.rangeLo, d.rangeHi))
             animator        = AnimLib.Animator.new()
             animator.rig    = figure
             animator.track = AnimLib.Track.fromfile(AssetGetPathFromFilename(d.anim:match("^[^@]+")))
