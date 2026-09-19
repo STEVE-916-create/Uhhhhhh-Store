@@ -16,7 +16,7 @@ table.insert(modules, function()
 	local m = {}
 	m.ModuleType = "MOVESET"
 	m.Name = "Gatito 1x1x1x1"
-	m.Description = "JOIN ME- OWWWWWWWWWW!!!\n\nUpdated by Berry/Noelle1!1!!1!1!1!!1, originally by you know who."
+	m.Description = "JOIN ME- OWWWWWWWWWW!!!\n\nUpdated by Berry/Noelle1!1!!1!1!1!!1, originally by you know who. (2)"
 	m.InternalName = "Gatito_1x"
 
 	m.Assets = {
@@ -981,7 +981,7 @@ table.insert(modules, function()
 	local m = {}
 	m.ModuleType = "MOVESET"
 	m.Name = "Gatito 1x1x1x1"
-	m.Description = "JOIN ME- OWWWWWWWWWW!!!\n\nUpdated by Berry/Noelle1!1!!1!1!1!!1, originally by you know who."
+	m.Description = "JOIN ME- OWWWWWWWWWW!!!\n\nUpdated by Berry/Noelle1!1!!1!1!1!!1, originally by you know who. (1)"
 	m.InternalName = "Gatito_1x"
 	m.Assets = {
 		"CatIdle.anim@MARKET/MARKET_GatitoandPh0nk1dd/assets/IwHx1HnA_CatIdle.anim",
