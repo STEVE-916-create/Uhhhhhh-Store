@@ -80,3 +80,9 @@ user = Chattyeri
 desc = He went to somewhere lol
 cost = ~36 MB
 file = MARKET_Pipis/allinone.lua
+
+name = Gatito 1x1x1x1 and PH0NKK1DD
+user = Berry
+desc = That one 1x1x1x1 skin lol, The mind of him
+cost = ~11 MB
+file = MARKET_GatitoandPh0nk1dd/allinone.lua
