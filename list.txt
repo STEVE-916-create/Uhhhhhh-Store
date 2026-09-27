@@ -86,3 +86,9 @@ user = Berry
 desc = That one 1x1x1x1 skin lol, The mind of him
 cost = ~11 MB
 file = MARKET_GatitoandPh0nk1dd/allinone.lua
+
+name = Breys block tales movesets
+user = Brey_nananana
+desc = "Hey its me brey and this is honestly my best work so far thanks for using this"
+cost = ~3.84 MB
+file = MARKET_alltheblocktalesmovesets/allinone.lua
