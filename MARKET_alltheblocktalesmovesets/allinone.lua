@@ -1042,8 +1042,7 @@ AddModule(function()
     local m = {}
     m.ModuleType   = "MOVESET"
     m.Name         = "Finn mccool"
-    m.Description  = "That fucking superboss that i hate
-(That fucking superboss that i hate)"
+    m.Description  = "That fucking superboss that i hate (That fucking superboss that i hate)"
     m.InternalName = "Finn_mccool"
 
     m.Assets = {
