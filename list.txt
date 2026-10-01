@@ -92,3 +92,9 @@ user = Brey_nananana
 desc = "Hey its me brey and this is honestly my best work so far thanks for using this"
 cost = ~3.84 MB
 file = MARKET_alltheblocktalesmovesets/allinone.lua
+
+name = John Doe (Berry's version)
+user = Berry or idkmanel9
+desc = John doe (Berry's version)
+cost = 4.45 MB
+file = MARKET_UpdatedJohndoe/allinone.lua
