@@ -104,9 +104,3 @@ user = tomaspro161/tomasxd16
 desc = use if you want to very bad
 cost = 989.98 KB
 file = MARKET_tomaspro161/allinone.lua
-
-name = test
-user = test
-desc = test
-cost = ~16 MB
-file = MARKET_992414066746339329_b0d449ab3a64/allinone.lua
