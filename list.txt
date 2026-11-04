@@ -110,3 +110,9 @@ user = test
 desc = test
 cost = ~16 MB
 file = MARKET_992414066746339329_8d70848db6e2/allinone.lua
+
+name = Lord Verity
+user = ralph_123783
+desc = LORD VERITY MASTER OF HUMANITY!
+cost = 410.8 KB
+file = MARKET_1377774443476160593_c602f2b384d4/allinone.lua
