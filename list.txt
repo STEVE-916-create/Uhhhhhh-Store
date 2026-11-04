@@ -122,3 +122,9 @@ user = tvmanateralt/1999ericgrayson1
 desc = i just made this for fun, don't expect to much
 cost = ~5 MB
 file = MARKET_1377774443476160593_5bcd3f5d667c/allinone.lua
+
+name = Immersive vr modded
+user = creator of immersive vr, abacaxl, 0866, xihil1ist
+desc = The immersive vr that we currently have right now for uhh reanimate to be more like clovr and added a couple of things such as a view port a spring button a better and improved crouch and a one that works for vr controllers and a teleport button just like clovr along with chat on ur left hand
+cost = 54.9 KB
+file = MARKET_1377774443476160593_fba9d368c720/allinone.lua
