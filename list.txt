@@ -122,3 +122,9 @@ user = Idkmanel9/Berry
 desc = probably my last moveset ever in this marketplace (im also looking at you friend of mine with guest as a name)
 cost = ~9 MB
 file = MARKET_1363216361660223549_0de5d0b738a1/allinone.lua
+
+name = universal skid glitcher edit by idk
+user = tomasxd16/tomaspro161
+desc = wow skid glitcher from vsb
+cost = ~19 MB
+file = MARKET_992414066746339329_5147403f8315/allinone.lua
