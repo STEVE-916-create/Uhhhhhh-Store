@@ -128,3 +128,9 @@ user = tomasxd16/tomaspro161
 desc = wow skid glitcher from vsb
 cost = ~19 MB
 file = MARKET_992414066746339329_5147403f8315/allinone.lua
+
+name = Sub Rosa Movement
+user = JustAMale
+desc = It's a Movement type of Game (Sub Rosa)\nSub Rosa is an indie multiplayer first-person shooter\nactually it isn't\nit's likely ported into:\nSub Rosa -> Hexagon Hat -> Roblox Studio -> Uhhhhhh Reanimate (User Module)\nControls: WASD = Move | Space = Charge Jump/Dive | Ctrl/C = Crouch | E (+LMB/RMB) = Grab/Climb/Mantle | Q = Throw Tool | B = Boxing | X = Dropkick | Z = Ragdoll | LMB/RMB = Arm Reach | H/G/J/K/L/U/I/O/P/Y/T/F (or N/M) = 12 Arm Poses | [/] = Hz | -/= = Speed
+cost = 217.0 KB
+file = MARKET_1214614086550298644_86fc338e2451/allinone.lua
