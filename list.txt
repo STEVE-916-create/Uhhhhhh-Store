@@ -1,6 +1,7 @@
 name = Bhop dance this is a test
 user = Noober
 desc = Bhop emote because lazy Steve didn't make it
+cost = 2 KB
 file = nbhoptest/Bhop module.lua
 
 name = airy's "ZIP File" port :3
@@ -29,7 +30,7 @@ file = awesthealter1/dances.lua
 
 name = GooglyEyes's Dancezz
 user = totallyMr_eyes
-desc = 
+desc = absolutely no description
 cost = 70 MB
 file = googlyeyes/allinone.lua
 
@@ -60,25 +61,25 @@ file = GeometryRunC/moveset.lua
 name = TrulyAReal dance pack
 user = TrulyAReal
 desc = dance pack! [ caution : moderation is not done for this module ]
-cost = ~28 MB
+cost = 28 MB
 file = MARKET_TrulyAReal/allinone.lua
 
 name = m1dnig3t dance pack
 user = m1dnig3t
 desc = dance pack! [ caution : moderation is not done for this module ]
-cost = ~36 MB
+cost = 36 MB
 file = MARKET_n1ghtEpikDances/allinone.lua
 
 name = lenny018577 dance pack
 user = lenny018577
 desc = dance pack! [ caution : moderation is not done for this module ]
-cost = ~18 MB
+cost = 18 MB
 file = MARKET_lenny018577/allinone.lua
 
 name = Lesser dad's shop
 user = Chattyeri
 desc = He went to somewhere lol
-cost = ~36 MB
+cost = 36 MB
 file = MARKET_Pipis/allinone.lua
 
 name = Gatito 1x1x1x1 and PH0NKK1DD
@@ -90,7 +91,7 @@ file = MARKET_GatitoandPh0nk1dd/allinone.lua
 name = Breys block tales movesets
 user = Brey_nananana
 desc = "Hey its me brey and this is honestly my best work so far thanks for using this"
-cost = ~3.84 MB
+cost = 3.84 MB
 file = MARKET_alltheblocktalesmovesets/allinone.lua
 
 name = John Doe (Berry's version)
@@ -114,19 +115,19 @@ file = MARKET_1377774443476160593_c602f2b384d4/allinone.lua
 name = don't touch that
 user = tvmanateralt/1999ericgrayson1
 desc = i just made this for fun, don't expect to much
-cost = ~5 MB
+cost = 5 MB
 file = MARKET_1377774443476160593_5bcd3f5d667c/allinone.lua
 
 name = The admin
 user = Idkmanel9/Berry
 desc = probably my last moveset ever in this marketplace (im also looking at you friend of mine with guest as a name)
-cost = ~9 MB
+cost = 9 MB
 file = MARKET_1363216361660223549_0de5d0b738a1/allinone.lua
 
 name = universal skid glitcher edit by idk
 user = tomasxd16/tomaspro161
 desc = wow skid glitcher from vsb
-cost = ~19 MB
+cost = 19 MB
 file = MARKET_992414066746339329_5147403f8315/allinone.lua
 
 name = Sub Rosa Movement
